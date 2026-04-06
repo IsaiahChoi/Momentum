@@ -1,0 +1,12 @@
+yfinance>=0.2.31
+pandas>=2.0
+numpy>=1.24
+statsmodels>=0.14
+scipy>=1.11
+matplotlib>=3.7
+plotly>=5.15
+pytest>=7.4
+pandas_datareader>=0.10
+tqdm>=4.65
+jupyterlab>=4.0
+ipykernel>=6.0

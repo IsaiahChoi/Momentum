@@ -104,14 +104,15 @@ cross-sectional-momentum-factor-library/
 
 ## Results Preview
 
-> **Run the notebook to generate all charts and tables.**
->
-> Expected output: `notebooks/full_research_report.ipynb` → all cells executed.
+### Cumulative Returns (2005–2024)
+![Cumulative Returns](data/fig_cumulative_returns.png)
 
-![Cumulative Returns — run notebook to generate](data/cumulative_returns_placeholder.png)
+### Quantile Portfolio Spread
+![Quantile Returns](data/fig_quantile_cumrets.png)
 
-*Placeholder: Execute `notebooks/full_research_report.ipynb` to produce the
-cumulative-return chart and all performance tables.*
+### Rolling 36-Month Sharpe Ratio
+![Rolling Sharpe](data/fig_rolling_sharpe.png)
+
 
 ---
 
